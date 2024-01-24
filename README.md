@@ -65,13 +65,11 @@ Make sure you have the following installed:
 
 ### Start client development server
 
-```bash
     cd ../client
     npm run dev
 
 ### Start server
 
-```bash
     cd ../server
     npm start
 
