@@ -47,12 +47,12 @@ Make sure you have the following installed:
 
 2. Install dependencies for both the client and server:
 
-### Install client dependencies
+#### Install client dependencies
 
     cd client
     npm install
 
-### Install server dependencies
+#### Install server dependencies
 
     cd ../server
     npm install
@@ -63,12 +63,12 @@ Make sure you have the following installed:
 
 4. Start the development server for both the client and server:
 
-### Start client development server
+#### Start client development server
 
     cd ../client
     npm run dev
 
-### Start server
+#### Start server
 
     cd ../server
     npm start
@@ -76,7 +76,7 @@ Make sure you have the following installed:
 
 ## Folder Structure
 
-/mern-blog-app
+/BLOG_MERN
   ├── client (Vite and React.js app with Tailwind CSS)
   │   ├── public
   │   └── src
