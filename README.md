@@ -49,12 +49,12 @@ Make sure you have the following installed:
 
     ```bash
 
-# Install client dependencies
+### Install client dependencies
 
     cd client
     npm install
 
-# Install server dependencies
+### Install server dependencies
 
     cd ../server
     npm install
