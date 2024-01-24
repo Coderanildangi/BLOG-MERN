@@ -63,13 +63,13 @@ Make sure you have the following installed:
 
 4. Start the development server for both the client and server:
 
-# Start client development server
+### Start client development server
 
 ```bash
     cd ../client
     npm run dev
 
-# Start server
+### Start server
 
 ```bash
     cd ../server
