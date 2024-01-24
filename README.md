@@ -134,4 +134,10 @@ We welcome contributions! Follow the steps below to contribute to the project:
 - Submit a pull request with a detailed description of your changes.
 - Please ensure that your code follows the project's coding standards and conventions.
 
+## License
+
+This project is licensed under the [CCtech].
+
 ## Output
+
+
