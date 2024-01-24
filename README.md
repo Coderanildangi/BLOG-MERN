@@ -76,6 +76,7 @@ Make sure you have the following installed:
 
 ## Folder Structure
 
+```
 /BLOG_MERN
   ├── client (Vite and React.js app with Tailwind CSS)
   │   ├── public
@@ -88,7 +89,7 @@ Make sure you have the following installed:
   ├── .gitignore
   ├── .env.example
   └── README.md
-
+```
 
 ## Technologies Used
 
