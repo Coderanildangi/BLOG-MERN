@@ -47,8 +47,6 @@ Make sure you have the following installed:
 
 2. Install dependencies for both the client and server:
 
-    ```bash
-
 ### Install client dependencies
 
     cd client
@@ -67,11 +65,13 @@ Make sure you have the following installed:
 
 # Start client development server
 
+```bash
     cd ../client
     npm run dev
 
 # Start server
 
+```bash
     cd ../server
     npm start
 
